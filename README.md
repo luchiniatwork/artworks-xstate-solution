@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# Artworks example using Xstate
+
+Solution inspired on the following brief:
+
+### Brief
+
+Your challenge is to build a website that uses the Metropolitan
+Museum's API (https://metmuseum.github.io/).
+
+You bought a Raspberry Pi attached to a screen and with WiFi
+capabilities, and you want to use it to show artwork in your house.
+
+Using TypeScript and React create an interactive website that displays
+artwork that you pull from the Metropolitan Museum's API.
+
+### Specifications
+
+-   The website should change artworks every 10 seconds
+-   When tapping on an artwork, display additional information about
+    the artwork
+    -   When displaying the art information, the timer should stop
+
+### Details of the implementation/executtion
+
+*ENABLE POP-UPS*: if you want to see the full power of statecharts, an interactive statechart will open as a pop up when you visit localhost:3000
+
+Demoing [Xstate](https://xstate.js.org/) and [Statecharts](https://statecharts.dev/).
+
+------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
